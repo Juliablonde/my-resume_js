@@ -106,6 +106,10 @@
     width: 100%;
   }
 
+  .logo-link {
+    text-decoration: none;
+  }
+
   .hire-me-btn {
     font-weight: 800;
     font-size: 15px;
@@ -127,3 +131,4 @@
     color: var(--c-light);
     width: 10px;
   }
+
